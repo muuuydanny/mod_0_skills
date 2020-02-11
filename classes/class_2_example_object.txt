@@ -1,0 +1,21 @@
+glass_cup
+
+attributes:
+
+current_volume (integer): 100
+
+is_clean (boolean): true
+
+material (string): "glass"
+
+contents_of_cup (string): "water"
+
+methods:
+
+take_drink: current_volume + 95
+
+fill: current_volume = 100
+
+spill_cup: current_volume = 0
+
+use_cup: is_clean = false
