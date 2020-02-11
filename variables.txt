@@ -1,0 +1,21 @@
+1. food = "pizza"
+
+2. is_new = false
+
+3. food = "taco"
+
+4. num1 = 4
+
+5. num2 = 5
+
+6. num3 = 20
+
+7. movies = ["Parasite", "Snowpiercer", "The Host"]
+
+8. Googled
+
+9.    movies.slice(0..1)
+=> ["Parasite", "Snowpiercer"]
+
+10.    movies.count
+=> 3
