@@ -1,0 +1,21 @@
+Cup
+
+attributes:
+
+current_volume (integer)
+
+is_clean (boolean)
+
+material (string)
+
+contents_of_cup (string)
+
+methods
+
+take_drink (takes 5 away from current_volume)
+
+fill (adds 5 to current_volume)
+
+use_cup (sets is_clean to false)
+
+spill_cup (sets current_volume)
