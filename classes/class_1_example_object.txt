@@ -1,0 +1,15 @@
+turkey_sandwich
+
+attributes:
+
+number_of_layers: 2
+ingredients: ["bread", "tomato", "lettuce", "turkey", "seitan"]
+edible: true
+calories: 300
+protein_type: ["turkey", "seitan"]
+
+methods:
+add_layer: adds 1 to current_layers = 3
+take_bite: removes 10 from 300 = 290
+spoil: edible = false
+add_protein: Add bacon = ["turkey", "seitan", "bacon"]

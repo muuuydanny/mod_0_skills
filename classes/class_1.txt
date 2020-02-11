@@ -1,4 +1,4 @@
-turkey_sandwich
+Sandwich
 
 Attributes
 current_layers (integer)
