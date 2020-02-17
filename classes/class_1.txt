@@ -3,21 +3,16 @@ Sandwich
 Attributes
 
 number_of_layers (integer)
-
 ingredients (array)
-
 edible (boolean)
-
 calories (integer)
-
 protein_type (array)
 
 Methods
 
 add_layer (adds 1 to number_of_layers)
-
 take_bite (removes 10 calories)
-
 spoil (when called on the sandwich it flips boolean edible to false)
-
 add_protein (adds protein to protein_type array)
+
+
