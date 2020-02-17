@@ -1,7 +1,6 @@
 Sandwich
 
 Attributes
-current_layers (integer)
 
 number_of_layers (integer)
 
