@@ -9,7 +9,7 @@ calories: 300
 protein_type: ["turkey", "seitan"]
 
 methods:
-add_layer: adds 1 to current_layers = 3
-take_bite: removes 10 from 300 = 290
+add_layer: adds 1 to number_of_layers = 3 number_of_layers
+take_bite: removes 10 from 300 calories = 290 calories
 spoil: edible = false
 add_protein: Add bacon = ["turkey", "seitan", "bacon"]
