@@ -12,10 +12,10 @@ contents_of_cup (string): "water"
 
 methods:
 
-take_drink: current_volume + 95
+take_drink: takes 5 away from current_volume. I.e. current_volume => 95
 
-fill: current_volume = 100
+fill: adds 5 to current_volume. I.e. current_volume => 100
 
-spill_cup: current_volume = 0
+spill_cup: sets current_volume to 0. I.e. current_volume => 0
 
-use_cup: is_clean = false
+use_cup: sets is_clean to false. I.e. is_clean => false
