@@ -12,4 +12,4 @@ methods:
 add_layer: adds 1 to number_of_layers. i.e. number_of_layers => 3 
 take_bite: removes 10 from 300 calories. i.e calories => 290 
 spoil: when called on the sandwich it flips boolean edible to false. i.e. edible = false
-add_protein: adds bacon to protein_type array. i.e protein_type => ["turkey", "seitan", "bacon"]
+add_protein: adds protein to protein_type array. i.e protein_type => ["turkey", "seitan", "bacon"]
